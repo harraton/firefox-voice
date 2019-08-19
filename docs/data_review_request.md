@@ -6,10 +6,10 @@
 1) What questions will you answer with this data?
 
 Determine level of engagement to inform product direction, feature priorities, release audience.
-* General usage levels as measured by daily & monthly active users
-* Type of requests/actions
-* General retention (do people keep using it)
-* Add-on installation retention (do people keep it installed)
+* General usage levels as measured by daily & monthly active users (Histogram depicting a count of unique IDs by date & time).
+* Type of requests/actions (Histogram of count of intents/intent types.)
+* General retention (do people keep using it) (Count of Unique IDs graphed over date * time: This allows us to see when people stop using the add on, to see if there's a certain day that is more likely to have usage.)
+* Add-on installation retention (do people keep it installed). (count unique ID x uninstall)
 
 Quantify revenue potential
 * By search volume (Google, Amazon, etc)
